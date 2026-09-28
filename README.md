@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # student---management--system
-Student Attendance and Grade management System
 =======
 # Student Attendance and Grade Management System
 
